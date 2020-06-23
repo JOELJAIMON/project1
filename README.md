@@ -9,5 +9,6 @@ Each R script corresponds in creating the plots/graphs saved as PNG file, i.e.
 3. plot3.R -> plot3.png
 4. plot4.R -> plot4.png
 
+thank you
 
 
